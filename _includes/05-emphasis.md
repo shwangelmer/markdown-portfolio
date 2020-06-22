@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm pretty decent at analytical **problem solving**. For instance, I am currently taking a course in *data analytics*, taught myself *Python*, and majored in *astrophysics* in college.
