@@ -1,0 +1,1 @@
+I'm pretty decent at analytical **problem solving**. For instance, I am currently taking a course in *data analytics*, taught myself *Python*, and majored in *astrophysics* in college.
